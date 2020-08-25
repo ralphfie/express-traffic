@@ -21,5 +21,9 @@
     "ralphfie"
   ],
   "author": "Rafie bin Amran",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralphfie/express-traffic/issues"
+  },
+  "homepage": "https://github.com/ralphfie/express-traffic#readme"
 }
