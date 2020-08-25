@@ -1,5 +1,5 @@
 {
-  "name": "@syukurilexs/expressjs-traffic",
+  "name": "express-traffic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/syukurilexs/expressjs-traffic.git"
+    "url": "git+ssh://git@github.com/ralpfie/express-traffic.git"
   },
   "keywords": [
     "npm",
     "expressjs",
-    "api-traffic",
-    "syukurilexs"
+    "api-traffic"
   ],
-  "author": "Syukur Bin Md Kassim",
+  "author": "Rafie bin Amran",
   "license": "ISC"
 }
