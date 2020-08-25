@@ -1,5 +1,5 @@
 {
-  "name": "express-traffic",
+  "name": "@ralphfie/express-traffic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,8 @@
   "keywords": [
     "npm",
     "expressjs",
-    "api-traffic"
+    "api-traffic",
+    "ralphfie"
   ],
   "author": "Rafie bin Amran",
   "license": "ISC"
