@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ralpfie/express-traffic.git"
+    "url": "https://github.com/ralphfie/express-traffic.git"
   },
   "keywords": [
     "npm",
